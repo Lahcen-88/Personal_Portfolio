@@ -114,11 +114,9 @@ header.shadow {
 }
 
 #darkmode {
-  padding: 30px 20px;
   font-weight: 600;
   font-size: 25px;
   cursor: pointer;
-  color: #eb1313;
 }
 
 .home {
