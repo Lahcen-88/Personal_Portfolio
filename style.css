@@ -114,10 +114,8 @@ header.shadow {
 }
 
 #darkmode {
-  font-size: 1rem;
-  padding: 10px 20px;
-  color: var(--text-color);
-  font-weight: 500;
+  padding: 30px 20px;
+  font-weight: 600;
   font-size: 22px;
   cursor: pointer;
 }
