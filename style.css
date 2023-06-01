@@ -114,7 +114,7 @@ header.shadow {
 }
 
 #darkmode {
-  font-size: 15px;
+  font-size: 20px;
   cursor: pointer;
 }
 
@@ -136,6 +136,7 @@ header.shadow {
   width: 80%;
   margin-left: 20%;
   margin-top: 5%;
+  opacity: 1;
 }
 
 .home-text span {
@@ -187,6 +188,7 @@ header.shadow {
 
 .about-img img {
   width: 70%;
+  opacity: 1;
 }
 
 .about-text p {
@@ -231,7 +233,9 @@ header.shadow {
   height: 230px;
   margin-left: 20%;
   margin-top: 30px;
+  opacity: 1;
 }
+
 
 .bars-box {
   position: relative;
