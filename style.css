@@ -107,14 +107,14 @@ header.shadow {
 }
 
 #menu-icon {
-  font-size: 15px;
+  font-size: 20px;
   cursor: pointer;
   z-index: 10001;
   display: none;
 }
 
 #darkmode {
-  font-size: 15px;
+  font-size: 20px;
   cursor: pointer;
 }
 
